@@ -4,6 +4,7 @@ import vivek from './assets/vivek.png'
 import socialwave from './assets/socialwave.png'
 import writingway from './assets/writingway.png'
 import convosphere from './assets/convosphere.png'
+import falvideo from './assets/falvideo.png'
 import Footer from './components/Footer';
 
 function App() {
@@ -63,6 +64,12 @@ function App() {
       description: "Created a real-time messaging application using MERN stack and Socket.io, enabling live communication for hundreds of users simultaneously.",
       link: "https://convo-sphere.onrender.com/",
       image: convosphere
+    },
+    {
+      title: "Fal-Video",
+      description: "FAL Video-to-Video – An AI-powered tool that transforms videos based on a given URL and text prompt, enabling seamless visual modifications and style changes with deep learning.",
+      link: "https://fal-video.onrender.com/",
+      image: falvideo
     },
   ];
 
